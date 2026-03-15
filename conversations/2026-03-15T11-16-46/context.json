@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "type": "message",
+            "role": "system",
+            "text": "You are a helpful assistant.",
+            "annotations": [],
+            "metadata": {},
+            "failed": false
+        },
+        {
+            "type": "message",
+            "role": "user",
+            "text": "Explain Python list comprehensions in 2-3 sentences.",
+            "annotations": [],
+            "metadata": {},
+            "failed": false
+        },
+        {
+            "type": "message",
+            "role": "user",
+            "text": "Explain Python list comprehensions in 2-3 sentences.",
+            "annotations": [],
+            "metadata": {},
+            "failed": false
+        }
+    ],
+    "metadata": {}
+}

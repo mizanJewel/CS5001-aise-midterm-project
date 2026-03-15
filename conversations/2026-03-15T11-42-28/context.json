@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "type": "message",
+            "role": "system",
+            "text": "You are a helpful assistant.",
+            "annotations": [],
+            "metadata": {},
+            "failed": false
+        },
+        {
+            "type": "message",
+            "role": "user",
+            "text": "What does the MDSE(Multimodal Disaster Situation Explorer) framework do?",
+            "annotations": [],
+            "metadata": {},
+            "failed": false
+        },
+        {
+            "type": "message",
+            "role": "user",
+            "text": "What does the MDSE(Multimodal Disaster Situation Explorer) framework do?",
+            "annotations": [],
+            "metadata": {},
+            "failed": false
+        }
+    ],
+    "metadata": {}
+}
